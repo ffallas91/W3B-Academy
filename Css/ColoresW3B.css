@@ -1,0 +1,30 @@
+
+.tituloPrincipal{
+    background:linear-gradient(to right,#d97523,#426f9c,#ac6262,#62ac8d );
+    height: 90px;
+}
+.footerPrincipal{
+    background:linear-gradient(to right,#d97523,#426f9c,#ac6262,#62ac8d);
+    height: 100%;
+    color: #121212;
+}
+body::before{
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255,255,255,0.70);
+    z-index: -1;
+}
+
+body{
+    background-color:#333;
+    position: relative;
+}
+
+body.dark-mode{
+    background-color: white;
+    color: black;
+}

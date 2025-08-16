@@ -1,0 +1,17 @@
+.container{
+
+    width: 100%;
+margin: 10px auto;
+}
+.encabezado{
+    height: 1000px;
+    background: rgba(59, 114, 124, 0.5);
+    background-image: url(/Img/Logo.jpg);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 10px;
+    color: whitesmoke;
+}
