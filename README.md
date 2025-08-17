@@ -64,11 +64,11 @@ It presents the mission of **W3B Academy (The Web 3 Academy LLC)**: an online pl
 ## 🚀 Preview  
 
 <p align="center">
-  <img src="./Img/Screenshot(23).png" width="700" alt="Website Screenshot 1"/>
+  <img src="./Img/Screenshot (23).png" width="700" alt="Website Screenshot 1"/>
 </p>
 
 <p align="center">
-  <img src="./Img/Screenshot(24).png" width="700" alt="Website Screenshot 2"/>
+  <img src="./Img/Screenshot (24).png" width="700" alt="Website Screenshot 2"/>
 </p>  
 
 ---
